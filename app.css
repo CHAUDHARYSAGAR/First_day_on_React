@@ -1,0 +1,9 @@
+#container {
+    background-color: aqua;
+    font-size: large;
+    color: brown;
+    text-align: center;
+}
+#container h1{
+    color: black;
+}
